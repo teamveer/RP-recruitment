@@ -1,3 +1,3 @@
 # Veer Financial Project Recruitment Problem
 
-Please clone this repoistory and open the Readme.ipynb .
+Please clone this repository and open the Readme.ipynb.
